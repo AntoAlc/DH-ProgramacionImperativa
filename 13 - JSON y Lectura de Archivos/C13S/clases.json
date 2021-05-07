@@ -1,0 +1,17 @@
+[
+    {
+        "titulo": "Introduccion a la Programacion",
+        "estado": "terminada",
+        "descripcion": "Clase 1"
+    },
+    {
+        "titulo": "Introduccion a la Informatica",
+        "estado": "repasar",
+        "descripcion": "Clase 2"
+    },
+    {
+        "titulo": "Metodologías",
+        "estado": "pendiente",
+        "descripcion": "Clase 3"
+    }
+]
